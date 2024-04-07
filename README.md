@@ -1,5 +1,6 @@
 # carrot-backend
 
-Nestjs
-User registration and authentification
-CRUD operations for products
+Small experience with 
+- Nestjs
+- User registration and authentification
+- CRUD operations for products
